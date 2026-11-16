@@ -1,7 +1,6 @@
-# ⚙️ SRE Lab — Parcours Pratique & Laboratoires
+# ⚙️ DevOps Lab — Parcours Pratique & Laboratoires
 
-Dépôt de suivi pratique du parcours **Ingénieur Fiabilité (SRE)**.  
-Il regroupe mes laboratoires, fiches de troubleshooting, scripts d'automatisation et comptes-rendus de pannes.
+Dépôt de suivi pratique du parcours **DevOps**.  
 
 ---
 
